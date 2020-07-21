@@ -2,13 +2,16 @@
 
 <details>
 <summary>BIO</summary>
-#### Data Specialist:
+	<details>
+	<summary>Data Specialist</summary>
 	Experiência consolidada em dados, com formação base em negócios, matemática e data science; especialista em dataviz, com experiência em estatística, Big Data e geração de insights; experiência em integração e engenharia de dados.
-
-### Contatos:
+	</details>
+	<details>
+	<summary> Contatos:</summary>
 	Santana de Parnaíba, SP
 	(11) 99880-4949
 	ricardo.m.paula@gmail.com
+	</details>
 </details>
 ## FORMAÇÃO ACADÊMICA
 
